@@ -27,19 +27,19 @@ The objective of the Web Application Development internship project is:
 ●Predict button - Clicking on the “Predict” button will populate the Order Amount column. 
 
 <img width="474" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/cfdebe41-4fb5-42f3-8aee-bc923c331c6e">
-
-<img width="474" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/f662240e-013c-4f9e-ba2a-d45556a948ac">
-<img width="327" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/b0fa43eb-6939-4ed4-bc8f-8da6f1f650ae">
-<img width="340" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/2575b6f1-a467-4a8a-bc1c-ba38b096de66">
-<img width="474" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/622d2505-0bb3-4578-9afe-930111bc949c">
-<img width="342" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/f7ba5412-1921-4306-872e-7838fb64a673">
-<img width="351" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/7f960e85-1d5f-40f3-abb8-db6b1d0f6269">
-<img width="474" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/1992fcf5-d7ca-4bcc-9a95-f2a06e2cc361">
-<img width="472" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/0cbff706-5cb3-45e2-94e9-8ddb859ff91a">
-<img width="472" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/d6ea2067-6afb-47d9-9139-75e0e7d38e11">
-<img width="472" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/bcf1b6ee-a7c6-437f-921f-eb343aa716a3">
-<img width="192" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/0b64aa8d-a413-4a7a-85f2-a990275aa6b6">
-<img width="472" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/c419b1e3-d5b6-40c5-9e2d-0b870919d640">
+<br>
+<img width="474" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/f662240e-013c-4f9e-ba2a-d45556a948ac"><br>
+<img width="327" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/b0fa43eb-6939-4ed4-bc8f-8da6f1f650ae"><br>
+<img width="340" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/2575b6f1-a467-4a8a-bc1c-ba38b096de66"><br>
+<img width="474" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/622d2505-0bb3-4578-9afe-930111bc949c"><br>
+<img width="342" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/f7ba5412-1921-4306-872e-7838fb64a673"><br>
+<img width="351" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/7f960e85-1d5f-40f3-abb8-db6b1d0f6269"><br>
+<img width="474" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/1992fcf5-d7ca-4bcc-9a95-f2a06e2cc361"><br>
+<img width="472" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/0cbff706-5cb3-45e2-94e9-8ddb859ff91a"><br>
+<img width="472" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/d6ea2067-6afb-47d9-9139-75e0e7d38e11"><br>
+<img width="472" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/bcf1b6ee-a7c6-437f-921f-eb343aa716a3"><br>
+<img width="192" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/0b64aa8d-a413-4a7a-85f2-a990275aa6b6"><br>
+<img width="472" alt="image" src="https://github.com/sel-starc/Invoice_System/assets/90095060/c419b1e3-d5b6-40c5-9e2d-0b870919d640"><br>
 
 
 
